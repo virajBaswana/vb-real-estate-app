@@ -14,3 +14,5 @@ export const fetchApi = async(url) => {
     })
     return data;
 }
+
+//changed name to fetchApi
